@@ -19,6 +19,7 @@ public class App {
          * 1.在初始化springApplication时，设置
          * 2.在运行时添加参数 --spring.profiles.active=test
          *          多个; test,dev,prod
+         *
          */
         springApplication.setAdditionalProfiles("test");
         ConfigurableApplicationContext run = springApplication.run(args);
