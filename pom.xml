@@ -13,6 +13,9 @@
         <module>learn1</module>
         <module>learn6</module>
         <module>learn8</module>
+        <module>learn9</module>
+        <module>learn3</module>
+        <module>learn4</module>
     </modules>
 
     <properties>
